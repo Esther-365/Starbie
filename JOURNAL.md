@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmv4q4fkb0es101n080ji1dg8)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> An Enclosure for the starbie project I created in week 1
+> A star-shaped Enclosure for the Starbie project that I created in week 1.  https://cad.onshape.com/documents/30b1cbdd64f530785b53ed5e/w/46caed9ad191264a28cf3bcb/e/df15983b73c9392080d00bbe?renderMode=0&uiState=6afbda0083420085744e2e7f
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
